@@ -42,4 +42,4 @@ The control for the states are:
 
 The landing gear had issues despite it being simple code. It would freeze up the serial monitor. Could be a parts issue, but we aren't sure.
 'G' to bring the landing gear up
-'g' to bring the landing gear down
+'g' to bring the landing gear down 
