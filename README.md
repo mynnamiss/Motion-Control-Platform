@@ -15,7 +15,8 @@ from there, the first thing you should push, assuming the motors are moved to th
 
 To leave it, press '0'; will need to press 0 before doing anything else.
 
-for any adjustments,
+For any adjustments,
+
 'A' is to move motors 1 and 6 Up*******
 
 'S' is to move motors 1 and 6 Down
@@ -40,6 +41,7 @@ Individual motor control.
 Press the number of the motor you would like to control followed by the direction ('u'/'d'). To stop, press '0'. To exit that motor's control, press 'x'.
 
 The control for the states are:
+
 'w' for pitch up
 
 's' for pitch down
