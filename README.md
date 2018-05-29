@@ -15,6 +15,7 @@ To leave it, press '0'
 
 for any adjustments,
 'A' is to move motors 1 and 6 Up
+
 'S' is to move motors 1 and 6 Down
 'C' is to move motors 3 and 4 Up
 'V' is to move motors 3 and 4 Down
